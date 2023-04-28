@@ -2,7 +2,7 @@
 ### Level 0
 | 번호 | 풀이 |
 | --- | --- |
-| 1 | [개미군단](Programmers/Lv0/개미군단.md) |
+| 1 | [개미군단](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%202016%EB%85%84.ipynb) |
 | 2 | [모스부호1](Programmers/Lv0/모스부호1.md) |
 | 3 | [최빈값 구하기](Programmers/Lv0/%EC%B5%9C%EB%B9%88%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) |
 | 4 | [7의 개수](Programmers/Lv0/7%EC%9D%98%20%EA%B0%9C%EC%88%98.md) |
