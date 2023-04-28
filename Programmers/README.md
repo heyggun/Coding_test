@@ -1,7 +1,7 @@
 ## 프로그래머스 코딩테스트
 ### Level 0
-| 번호 | 풀이 |
-| --- | --- |
+| 번호 | 풀이 | velog |
+| --- | --- | --- |
 | 1 | [개미군단](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%202016%EB%85%84.ipynb) |
 | 2 | [모스부호1](Programmers/Lv0/모스부호1.md) |
 | 3 | [최빈값 구하기](Programmers/Lv0/%EC%B5%9C%EB%B9%88%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) |
@@ -68,12 +68,12 @@
 | 53 | [추억 점수](Programmers/Lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md) |
 
 ### Level 2
-| 번호 | 풀이 |
-| --- | --- |
-| 1 | [디펜스 게임](Programmers/Lv1/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.md) |
-| 2 | [JadenCase 문자열 만들기](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
-| 3 | [이진 변환 반복하기](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |
-| 4 | [최댓값과 최솟값](Programmers/Lv2/최댓값과%20최솟값.md) |
+| 번호 | 풀이 | velog |
+| --- | --- | --- |
+| 1 | [게임 맵 최단거리](Programmers/Lv1/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.md) | [게임 맵 최단거리](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81)
+| 2 | [124 나라의 숫자](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
+| 3 | [2 x n 타일링](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |
+| 4 | [3 x n 타일링](Programmers/Lv2/최댓값과%20최솟값.md) |
 | 5 | [N개의 최소공배수](Programmers/Lv2/N개의%20최소공배수.md) |
 | 6 | [피보나치 수](Programmers/Lv2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md) |
 | 7 | [멀리 뛰기](Programmers/Lv2/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.md) |
@@ -115,6 +115,67 @@
 | 43 | [문자열 압축](Programmers/Lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md) |
 | 44 | [혼자서 하는 틱택토](Programmers/Lv2/%ED%98%BC%EC%9E%90%EC%84%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0.md) |
 | 45 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 46 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 47 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 48 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 49 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 50 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 51 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 52 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 53 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 54 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 55 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 56 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 57 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 58 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 59 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 60 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 61 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 62 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 63 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 64 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 65 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 66 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 67 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 68 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 69 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 70 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 71 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 72 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 73 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 74 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 75 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 76 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 77 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 78 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 79 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 80 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 81 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 82 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 83 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 84 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 85 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 86 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 87 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 88 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 89 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 90 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 91 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 92 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 93 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 94 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 95 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 96 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 97 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 98 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 99 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 100 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 101 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 102 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 103 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+| 104 | [호텔 대실](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) |
+
+
 
 ## 구름LEVEL
 ### Level 2
