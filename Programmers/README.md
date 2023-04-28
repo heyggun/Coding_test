@@ -19,7 +19,7 @@
 | 4 | [[1차] 비밀지도](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.ipynb) | [velog [1차 비밀지도]](https://velog.io/@heyggun/3%EC%BD%941%ED%8C%8C-08.-Lv1-1%EC%B0%A8-%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)| 
 | 5 | [x만큼 간격이 있는 n개의 숫자](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.ipynb) | | 
 | 6 | [가운데 글자 가져오기](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.ipynb) | | 
-| 7 | [같은 숫자는 싫어] | (https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.ipynb) | | 
+| 7 | [같은 숫자는 싫어] (https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.ipynb) | | 
 | 8 | [나누어 떨어지는 숫자 배열](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.ipynb) | | 
 | 9 | [내적](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EB%82%B4%EC%A0%81%20-%20%EB%8B%A4%EC%8B%9C.ipynb) | | 
 | 10 | [두 정수 사이의 합](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.ipynb) | | 
