@@ -14,13 +14,13 @@
 | 번호 | 풀이 |
 | --- | --- |
 | 1 | [2016년](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%202016%EB%85%84.ipynb) |
-| 2 | [신규 아이디 추천](Programmers/Lv1/신규%20아이디%20추천.md) |
-| 3 | [숫자 짝꿍](Programmers/Lv1/숫자%20짝꿍.md) |
-| 4 | [없는 숫자 더하기](Programmers/Lv1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |
-| 5 | [핸드폰 번호 가리기](Programmers/Lv1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md) |
-| 6 | [실패율](Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md) |
-| 7 | [부족한 금액 계산하기](Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md) |
-| 8 | [신고 결과 받기](Programmers/Lv1/신고%20결과%20받기.md) |
+| 2 | [3진법 뒤집기](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0%20-%20%EB%8B%A4%EC%8B%9C.ipynb) |
+| 3 | [K번째 수](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98%20.ipynb) |
+| 4 | [[1차] 비밀지도](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.ipynb) |
+| 5 | [x만큼 간격이 있는 n개의 숫자](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.ipynb) |
+| 6 | [가운데 글자 가져오기](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.ipynb) |
+| 7 | [같은 숫자는 싫어](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.ipynb) |
+| 8 | [나누어 떨어지는 숫자 배열](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.ipynb) |
 | 9 | [성격 유형 검사하기](Programmers/Lv1/성격%20유형%20검사하기.md) |
 | 10 | [나머지가 1이 되는 수 찾기](Programmers/Lv1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) |
 | 11 | [숫자 영단어와 문자열](Programmers/Lv1/숫자%20영단어와%20문자열.md) |
