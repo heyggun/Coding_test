@@ -11,7 +11,7 @@
 | 7 | [주사위 게임 2](Programmers/Lv0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202.md) |
 
 ### Level 1
-| 번호 | 풀이 | velog |
+| 번호 | 풀이 | velog | 
 | --- | --- | --- |
 | 1 | [2016년](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%202016%EB%85%84.ipynb) |  | 
 | 2 | [3진법 뒤집기](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.1/LV%201.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0%20-%20%EB%8B%A4%EC%8B%9C.ipynb) | | 
@@ -68,9 +68,9 @@
 | 53 | [추억 점수](Programmers/Lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md) |
 
 ### Level 2
-| 번호 | 풀이 | velog |
-| --- | --- | --- |
-| 1 | [게임 맵 최단거리](Programmers/Lv1/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.md) | [게임 맵 최단거리](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81)
+| 번호 | 풀이 | velog | data |
+| --- | --- | --- | --- |
+| 1 | [게임 맵 최단거리](Programmers/Lv1/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.md) | [게임 맵 최단거리](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) | 2023.03.24 |
 | 2 | [124 나라의 숫자](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
 | 3 | [2 x n 타일링](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |
 | 4 | [3 x n 타일링](Programmers/Lv2/최댓값과%20최솟값.md) |
