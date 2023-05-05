@@ -72,7 +72,7 @@
 | 46 | [구명보트](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 47 | [오픈채팅방](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 48 | [후보키]() | [후보키](https://velog.io/@heyggun/1스4코1파-106.-LV-2.-후보) | 2023.04.19 |
-| 49 | [타겟 넘버](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/타겟%20넘버.ipynb) | [타겟 넘버] (https://velog.io/@heyggun/4코1파-56.-LV-2.-타겟넘버) | 2023.02.28, 2023.05.05 |
+| 49 | [타겟 넘버](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/타겟%20넘버.ipynb) | [타겟 넘버](https://velog.io/@heyggun/4코1파-56.-LV-2.-타겟넘버) | 2023.02.28, 2023.05.05 |
 | 50 | [스킬트리](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 51 | [방문 길이](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 52 | [문자열 압축](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
