@@ -23,8 +23,8 @@
 
 ### Level 2
 | 번호 | 풀이 | velog | date |
-| --- | --- | --- | --- |
-| 1 | [게임 맵 최단거리]() | [게임 맵 최단거리](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) | 2023.03.24 |
+| --- | --- | --- | --- | --- |
+| 1 | [게임 맵 최단거리](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.01.18.ipynb) | [게임 맵 최단거리](https://velog.io/@heyggun/1스4코2파-122-1.-LV-2.-게임-맵-최단거리) | 2023.01.18, 2023.03.24 |
 | 2 | [124 나라의 숫자](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | [124 나라의 숫자](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-63.-LV-2.-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) | 2023.03.07 |
 | 3 | [2 x n 타일링](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) | [2 x n 타일링](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) | 2023.03.24 |
 | 4 | [3 x n 타일링]() | --- | --- |
