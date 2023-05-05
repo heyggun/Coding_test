@@ -24,7 +24,7 @@
 ### Level 2
 | 번호 | 풀이 | velog | date |
 | --- | --- | --- | --- | 
-| 1 | [게임 맵 최단거리](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/게임%20맵%20최단거리.ipynb) | [게임 맵 최단거리](https://velog.io/@heyggun/1스4코2파-122-1.-LV-2.-게임-맵-최단거리) | 2023.01.18, 2023.03.24 |
+| 1 | [게임 맵 최단거리](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/게임%20맵%20최단거리.ipynb) | [게임 맵 최단거리](https://velog.io/@heyggun/1스4코2파-122-1.-LV-2.-게임-맵-최단거리) | 2023.01.18, 2023.05.05 |
 | 2 | [124 나라의 숫자](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | [124 나라의 숫자](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-63.-LV-2.-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) | 2023.03.07 |
 | 3 | [2 x n 타일링](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) | [2 x n 타일링](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) | 2023.03.24 |
 | 4 | [3 x n 타일링]() | --- | --- |
@@ -72,7 +72,7 @@
 | 46 | [구명보트](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 47 | [오픈채팅방](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 48 | [후보키]() | [후보키](https://velog.io/@heyggun/1스4코1파-106.-LV-2.-후보) | 2023.04.19 |
-| 49 | [타겟 넘버](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
+| 49 | [타겟 넘버](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/타겟%20넘버.ipynb) | [타겟 넘버] (https://velog.io/@heyggun/4코1파-56.-LV-2.-타겟넘버) | 2023.02.28, 2023.05.05 |
 | 50 | [스킬트리](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 51 | [방문 길이](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 52 | [문자열 압축](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
