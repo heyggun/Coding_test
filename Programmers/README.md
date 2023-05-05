@@ -122,7 +122,7 @@
 | 96 | [미로 탈출](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.25.ipynb) | [미로 탈출 velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-112.-LV-2.-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C) | 2023.04.25 |
 | 97 | [혼자서 하는 틱택토]() | [혼자서 하는 틱택토 velog](https://velog.io/@heyggun/1스4코1파-116.-LV-2.-혼자서-하는-틱택토) | 2023.04.29 |
 | 98 | [당구 연습]() | [당구 연습]() | --- |
-| 99 | [리코쳇 로봇]() | [리코쳇 로봇 velog](https://velog.io/@heyggun/1스4코2파-121.-LV-2.-리코쳇-로봇) | 2023.05.04 |
+| 99 | [리코쳇 로봇](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/리코쳇%20로봇.ipynb) | [리코쳇 로봇 velog](https://velog.io/@heyggun/1스4코2파-121.-LV-2.-리코쳇-로봇) | 2023.05.04 |
 | 100 | [광물 캐기]() | [광물 캐기 velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-105.-LV-2.-%EA%B4%91%EB%AC%BC-%EC%BA%90%EA%B8%B0) | 2023.04.18 |
 | 101 | [과제 진행하기](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.04.ipynb) | [과제 진행하기 velog](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-91.-LV-2.-%EA%B3%BC%EC%A0%9C-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0) | 2023.04.04 |
 | 102 | [연속된 부분 수열의 합](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.11.ipynb) | [연속된 부분 수열의 합 velog](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-97.-LV-2.-%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9) | 2023.04.11 |
