@@ -68,7 +68,7 @@
 | 53 | [추억 점수](Programmers/Lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md) |
 
 ### Level 2
-| 번호 | 풀이 | velog | data |
+| 번호 | 풀이 | velog | date |
 | --- | --- | --- | --- |
 | 1 | [게임 맵 최단거리]() | [게임 맵 최단거리](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-80.-LV-2.-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) | 2023.03.24 |
 | 2 | [124 나라의 숫자](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | [124 나라의 숫자](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-63.-LV-2.-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) | 2023.03.07 |
@@ -79,7 +79,7 @@
 | 7 | [다음 큰 숫자]() | --- | --- |
 | 8 | [땅따먹기]() | --- | --- |
 | 9 | [멀리 뛰기]() | --- | --- |
-| 10 | [숫자 블록]() | --- | --- |
+| 10 | [숫자 블록]() | [숫자 블록](https://velog.io/@heyggun/1스4코1파-119.-LV-2.-숫자-블록) | 2023.05.02 |
 | 11 | [숫자의 표현](Programmers/Lv2/연속%20부분%20수열%20합의%20개수.md) | --- | --- |
 | 12 | [줄 서는 방법]() | --- | --- |
 | 13 | [최댓값과 최솟값]() | --- | --- |
@@ -158,7 +158,7 @@
 | 86 | [테이블 해시 함수]() | [테이블 해시 함수](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-108.-LV-2.-%ED%85%8C%EC%9D%B4%EB%B8%94-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98) | 2023.04.21 |
 | 87 | [유사 칸토어 비트열]() | [유사 칸토어 비트열]() | --- |
 | 88 | [마법의 엘레베이터](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.01.17.ipynb) | [마법의 엘레베이터](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-14.-%EB%A7%88%EB%B2%95%EC%9D%98-%EC%97%98%EB%A0%88%EB%B2%A0%EC%9D%B4%ED%84%B0) | 2023.01.17 |
-| 89 | [이모티콘 할인행사]() | [이모티콘 할인행사]() | --- |
+| 89 | [이모티콘 할인행사]() | [이모티콘 할인행사](https://velog.io/@heyggun/1스4코1파-120.-LV-2.-이모티콘-할인행사) |2023.05.05 |
 | 90 | [택배 배달과 수거하기]() | [택배 배달과 수거하기]() | --- |
 | 91 | [시소 짝꿍]() | [시소 짝꿍](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-109.-LV-2.-%EC%8B%9C%EC%86%8C-%EC%A7%9D%EA%BF%8D) | 2023.04.22 |
 | 92 | [숫자 변환하기](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.03.20.ipynb) | [숫자 변환하기](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-77.-LV-2.-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) | 2023.03.20 |
@@ -168,11 +168,11 @@
 | 96 | [미로 탈출](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.25.ipynb) | [미로 탈출](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-112.-LV-2.-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C) | 2023.04.25 |
 | 97 | [혼자서 하는 틱택토]() | [혼자서 하는 틱택토]() | --- |
 | 98 | [당구 연습]() | [당구 연습]() | --- |
-| 99 | [리코쳇 로봇]() | [리코쳇 로봇]() | --- |
+| 99 | [리코쳇 로봇]() | [리코쳇 로봇](https://velog.io/@heyggun/1스4코2파-121.-LV-2.-리코쳇-로봇) | 2023.05.04 |
 | 100 | [광물 캐기]() | [광물 캐기](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%941%ED%8C%8C-105.-LV-2.-%EA%B4%91%EB%AC%BC-%EC%BA%90%EA%B8%B0) | 2023.04.18 |
 | 101 | [과제 진행하기](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.04.ipynb) | [과제 진행하기](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-91.-LV-2.-%EA%B3%BC%EC%A0%9C-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0) | 2023.04.04 |
 | 102 | [연속된 부분 수열의 합](https://github.com/heyggun/Coding_test/blob/main/coding_test/2023.04.11.ipynb) | [연속된 부분 수열의 합](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-97.-LV-2.-%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9) | 2023.04.11 |
-| 103 | [두 원 사이의 정수 쌍]() | [두 원 사이의 정수 쌍]() | --- |
+| 103 | [두 원 사이의 정수 쌍]() | [두 원 사이의 정수 쌍](https://velog.io/@heyggun/1스4코2파-120.-LV-2.-두-원-사이의-정수-쌍) | 2023.05.03 |
 | 104 | [요격 시스템]() | [요격 시스템]() | --- |
 
 
