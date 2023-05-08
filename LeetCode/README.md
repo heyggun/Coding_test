@@ -9,4 +9,4 @@
 ### [Algorithm Study Plan](https://leetcode.com/study-plan/algorithm/?progress=xy896cfr) 
 | 번호 | Day | velog | data |
 | --- | --- | --- | --- |
-| 1 | [Day 1]() | [velog]() | 2023.05.08 |
+| 1 | [Day 1](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%201.ipynb) | [velog]() | 2023.05.08 |
