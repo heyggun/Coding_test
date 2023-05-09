@@ -11,4 +11,4 @@
 | 번호 | Day | velog | data | Desciption |
 | --- | --- | --- | --- | --- |
 | 1 | [Day 1](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%201.ipynb) | [velog](https://velog.io/@heyggun/Algorithm-Binary-Search-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) | 2023.05.08 | Binary Search, Array |
-| 2 | [Day 2]() | [velog]() | 2023.05.09 | Two Pointers, sorting |
+| 2 | [Day 2](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%202.ipynb) | [velog]() | 2023.05.09 | Two Pointers, sorting |
