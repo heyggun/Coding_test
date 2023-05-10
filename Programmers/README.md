@@ -69,7 +69,7 @@
 | 43 | [카펫](Programmers/Lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md) | --- | --- |
 | 44 | [조이스틱]() | [조이스틱 velog](https://velog.io/@heyggun/1스4코1파-113.-LV-2.-조이스틱)| 2023.05.01 |
 | 45 | [큰 수 만들기](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
-| 46 | [구명보트](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.ipynb) | [구명보트 velog](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-20.-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) | 2023.01.23 , 2023.05.10 |
+| 46 | [구명보트](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.ipynb) | [구명보트 velog](https://velog.io/@heyggun/4%EC%BD%941%ED%8C%8C-20.-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) | 2023.01.23, 2023.05.10 |
 | 47 | [오픈채팅방](Programmers/Lv2/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.md) | --- | --- |
 | 48 | [후보키]() | [후보키 velog](https://velog.io/@heyggun/1스4코1파-106.-LV-2.-후보) | 2023.04.19 |
 | 49 | [타겟 넘버](https://github.com/heyggun/Coding_test/blob/main/Programmers/LV.2/타겟%20넘버.ipynb) | [타겟 넘버 velog](https://velog.io/@heyggun/4코1파-56.-LV-2.-타겟넘버) | 2023.02.28, 2023.05.05 |
