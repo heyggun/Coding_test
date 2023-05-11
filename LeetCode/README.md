@@ -25,4 +25,9 @@
 | 1 | [Day 1](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%201.ipynb) | [velog](https://velog.io/@heyggun/Algorithm-Binary-Search-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) | 2023.05.08 | Binary Search, Array |
 | 2 | [Day 2](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%202.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-127.-LeetCode-Algorithm-Day-2-Squares-of-a-Sorted-Array-Rotate-Array) | 2023.05.09 | Two Pointers, sorting |
 | 3 | [Day 3](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%203.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-128.-LeetCode-Algorithm-Day-3-Move-Zeroes-Two-Sum-II-Input-Array-Is-Sorted) | 2023.05.10 | Two Pointers, Binary Search |
-| 4 | [Day 4]() | [velog]() | 2023.05.11 | Two Pointers |
+| 4 | [Day 4](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%204.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-129.-LeetCode-Algorithm-Day-4-344.-Reverse-String-557.-Reverse-Words-in-a-String-III) | 2023.05.11 | Two Pointers |
+| 5 | [Day 5]() | [velog]() | 2023.05.12 | Linked List, Two Pointers |
+| 6 | [Day 6]() | [velog]() | 2023.05.13 | Hash Table, Two Pointers |
+| 7 | [Day 7]() | [velog]() | 2023.05.14 | Depth-First Search, Breadth-First Search|
+
+
