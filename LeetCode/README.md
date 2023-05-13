@@ -28,7 +28,7 @@
 | 3 | [Day 3](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%203.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-128.-LeetCode-Algorithm-Day-3-Move-Zeroes-Two-Sum-II-Input-Array-Is-Sorted) | 2023.05.10 | Two Pointers, Binary Search |
 | 4 | [Day 4](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%204.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-129.-LeetCode-Algorithm-Day-4-344.-Reverse-String-557.-Reverse-Words-in-a-String-III) | 2023.05.11 | Two Pointers |
 | 5 | [Day 5](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%205.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-130.-LeetCode-Algorithm-Day-5-876.-Middle-of-the-Linked-List-19.-Remove-Nth-Node-From-End-of-List) | 2023.05.12 | Linked List, Two Pointers |
-| 6 | [Day 6]() | [velog]() | 2023.05.13 | Hash Table, Two Pointers |
+| 6 | [Day 6]() | [velog]() | 2023.05.13 | Hash Table, Sliding Window |
 | 7 | [Day 7]() | [velog]() | 2023.05.14 | Depth-First Search, Breadth-First Search|
 
 
