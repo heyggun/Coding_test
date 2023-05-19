@@ -34,7 +34,7 @@
 | 9 | [Day 9](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%209.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-134.-LeetCode-Algorithm-Day-9-542.-01-Matrix-994.-Rotting-Oranges) | 2023.05.16 | Dynamic Programming, Depth-First Search, Breadth-First Search |
 | 10 | [Day 10](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%2010.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-135.-LeetCode-Algorithm-Day-10-21.-Merge-Two-Sorted-Lists-206.-Reverse-Linked-List) | 2023.05.17 | Recursion, Backtracking |
 | 11 | [Day 11](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%2011.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-136.-LeetCode-Algorithm-Day-1121.-Merge-Two-Sorted-Lists-206.-Reverse-Linked-Listv) | 2023.05.18 | Recursion, Backtracking |
-| 12 | [Day 12]() | [velog]() | 2023.05.19 | Dynamic Programming |
+| 12 | [Day 12](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Algorithm%20Plan%2014/%5BAlgorithm%20I%5D%20Day%2012.ipynb) | [velog](https://velog.io/@heyggun/1%EC%8A%A44%EC%BD%942%ED%8C%8C-137.-LeetCode-Algorithm-Day-1270.-Climbing-Stairs) | 2023.05.19 | Dynamic Programming |
 
 
 
