@@ -14,6 +14,7 @@
 | 번호 | 문제 | date & Solution |
 | --- | --- | --- |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i) | [2023.05.11](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [2023.10.18](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Medium/152.%20Maximum%20Product%20Subarray.ipynb) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [2023.05.09](https://github.com/heyggun/Coding_test/blob/main/LeetCode/Medium/189.%20Rotate%20Array.ipynb) |
 
 
